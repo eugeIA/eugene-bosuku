@@ -128,14 +128,14 @@ export function ProjectsSection() {
                         </Link>
                       </Button>
                     )}
-                    {project.links.live && (
+                    {/* {project.links.live && (
                       <Button variant="outline" size="sm" asChild>
                         <Link href={project.links.live} target="_blank" rel="noopener noreferrer">
                           <ExternalLink className="mr-2 h-4 w-4" />
                           Voir le projet
                         </Link>
                       </Button>
-                    )}
+                    )} */}
                   </div>
                 )}
               </div>
