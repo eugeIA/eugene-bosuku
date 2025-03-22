@@ -6,8 +6,8 @@ import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 
 const technicalSkills = {
-  "Frontend": ["React.js", "Next.js", "React Native", "TypeScript", "State Management"],
-  "Backend": ["Node.js", "Express.js", "Sails.js", "Nest.js", "REST APIs"],
+  "Frontend": ["React.js", "Next.js", "React Native", "TypeScript", "State Management with redux"],
+  "Backend": ["Node.js", "Express.js", "Sails.js", "Nest.js", "Adonis.js", "Redis", "Nginx", "REST APIs"],
   "DevOps": ["GitHub Actions", "CI/CD", "Render.com", "Google Cloud Platform"],
   "Design": ["Figma", "Adobe Express", "UI/UX", "Prototypage", "Maquettage"],
 };
