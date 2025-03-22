@@ -19,10 +19,26 @@ const projects = [
       "Déploiement sur Google Cloud et Render.com"
     ],
     duration: "En cours",
-    teamSize: "5 développeurs",
+    teamSize: "2 développeurs",
     links: {
       github: "https://github.com/eugeIA/uty-ecommerce"
     }
+  },
+  {
+    title: "UTY App",
+    description: "Plateforme de commerce électronique moderne avec gestion des commandes, paiements en ligne et système de livraison.",
+    tech: ["React native", "Firebase", "Google Cloud", "GitHub Actions", "Render.com"],
+    role: "Lead Developer",
+    achievements: [
+      "Architecture complète de la plateforme",
+      "Mise en place du CI/CD avec GitHub Actions",
+      "Déploiement sur Google Cloud et Render.com"
+    ],
+    duration: "En cours",
+    teamSize: "2 développeurs",
+    // links: {
+    //   github: "https://github.com/eugeIA/uty-ecommerce"
+    // }
   },
   {
     title: "Portail Ekelasi",
@@ -34,8 +50,8 @@ const projects = [
       "Déploiement sur Google Cloud avec Docker",
       "Optimisation des performances"
     ],
-    duration: "6 mois",
-    teamSize: "3 développeurs"
+    duration: "3 mois",
+    teamSize: "1 développeur"
   },
   {
     title: "ERP Nsitu Pelende",
@@ -62,6 +78,19 @@ const projects = [
     ],
     duration: "3 mois",
     teamSize: "3 développeurs"
+  },
+  {
+    title: "Site web ONG Right of life",
+    description: "Portail web de l'ONG pour les droits civiques Right of life",
+    tech: ["Next.js", "Supabase"],
+    role: "Développeur fullstack",
+    achievements: [
+     "Développement du portail web avec next.js",
+      "Mise en place du système de placement de dons en ligne",
+      "Mise en place d'un système de gestion de blog et des contacts"
+    ],
+    duration: "1 mois",
+    teamSize: "1 développeurs"
   }
 ];
 
